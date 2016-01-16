@@ -1,0 +1,28 @@
+name: VoyagerShift
+favicon: null
+layout_spectrum: 0.30327804619446397
+typography_spectrum: 0.9026054579298943
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.35190473101101816
+  lightness: 0.4873582497239113
+  saturation: 0.4531527457293123
+  rhythmicContrast: 0.36783830961212516
+purpose: []
